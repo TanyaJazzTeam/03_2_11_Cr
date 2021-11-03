@@ -6,7 +6,6 @@ my:
        - eggs
        - sugar
        - flour
-       - loopp
       cream:
         - sugar
         - milk
