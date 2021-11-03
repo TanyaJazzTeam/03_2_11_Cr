@@ -1,0 +1,19 @@
+---
+my:
+  cake:
+    composition:
+      dough:
+      - Eier
+      - 
+      - Mehl
+      cream:
+      - Zucker
+      - 
+    dough:
+    - Eier
+    - Zucker
+    - Mehl
+    - 
+    cream:
+    - 
+    - Milch
