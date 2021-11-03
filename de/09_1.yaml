@@ -4,16 +4,16 @@ my:
     composition:
       dough:
       - Eier
-      - 
+      - sugar
       - Mehl
       cream:
       - Zucker
-      - 
+      - milk
     dough:
     - Eier
     - Zucker
     - Mehl
-    - 
+    - loopp
     cream:
-    - 
+    - sugar
     - Milch
