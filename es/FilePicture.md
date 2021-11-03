@@ -39,8 +39,6 @@ Este texto que aparece aquí es *en realidad* escrito en Markdown! Para familiar
 
 Dillinger utiliza varios proyectos de código abierto para funcionar correctamente:
 
-- [AngularJS] - ¡HTML mejorado para aplicaciones web!
-- [Ace Editor]: increíble editor de texto basado en la web
 - [markdown-it] - Analizador de Markdown bien hecho. Rápido y fácil de extender.
 - [Twitter Bootstrap]: excelente plantilla de interfaz de usuario para aplicaciones web modernas
 - [node.js]: E / S con eventos para el backend
