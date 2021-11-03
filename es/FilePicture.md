@@ -148,8 +148,6 @@ Verifique la implementación navegando a la dirección de su servidor en su nave
 127.0.0.1:8000
 ```
 
-#### Kubernetes + Google Cloud
-
 Ver [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
 
 ### Todos
