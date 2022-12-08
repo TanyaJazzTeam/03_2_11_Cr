@@ -6,6 +6,7 @@
 				{
 					"name": "Kinematics",
 					"complexity": "average",
+					"lfll": "qqd",
 					"interest": "great",
 					"bool": true
 
